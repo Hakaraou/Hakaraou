@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/Hakaraou">
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Hakaraou">
