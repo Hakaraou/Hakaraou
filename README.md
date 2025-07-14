@@ -1,10 +1,11 @@
 # Hi, I'm Hafsa Karaouche 👋
 
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
-
+</br>
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hakaraou" alt="hakaraou's 42 stats" /></a>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
+</br>
 
 
 ## 🛠️ Technologies & Tools
