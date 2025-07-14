@@ -3,7 +3,9 @@
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
 
 ## 🛠️ Technologies & Tools
-- 💻 Languages: C, C++, Python
+- 💻 Languages:
+  ![C](https://img.shields.io/badge/-333333?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-++-333333?style=flat&logo=c)
 - ⚙️ Tools: Docker, Git
 
 ## 🚀 Projects
