@@ -55,13 +55,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- System design, network programming, and scalable architecture.
-- CI/CD and container orchestration with Docker.
-
----
-
 ### ⏱️ Coding Activity
 
 <a href="https://wakatime.com/@fdcab04d-2093-4856-9148-73db9fe9c35e">
