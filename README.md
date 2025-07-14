@@ -6,13 +6,13 @@
   <img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hakaraou" alt="hakaraou's 42 stats" />
 </a>
 
-
+---
 
 ### 👩🏻‍💻 About Me
 
 I'm always excited about tackling new challenges, especially in systems programming, infrastructure, and building clean and efficient developer tooling. I love working with low-level technologies and automating infrastructure using Docker and shell tools.
 
-
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -22,7 +22,7 @@ I'm always excited about tackling new challenges, especially in systems programm
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -31,7 +31,7 @@ I'm always excited about tackling new challenges, especially in systems programm
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
 </a>
 
-
+---
 
 ## 🚀 Projects
 
@@ -41,14 +41,14 @@ I'm always excited about tackling new challenges, especially in systems programm
 - ✅ **Completed:**  
   **inception** – A Docker-based infrastructure project that sets up WordPress, NGINX, and MariaDB with secure TLS-only access and container isolation.
 
-
+---
 
 ## 🌱 Currently Learning
 
 - System design, network programming, and scalable architecture.
 - CI/CD and container orchestration with Docker.
 
-
+---
 
 ## ⏱️ Coding Activity
 
@@ -56,12 +56,12 @@ I'm always excited about tackling new challenges, especially in systems programm
   <img src="https://wakatime.com/badge/user/fdcab04d-2093-4856-9148-73db9fe9c35e.svg" alt="Total time coded since Jul 14 2025" />
 </a>
 
-
+---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Hafsa%20Karaouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafsa-karaouche/)](https://www.linkedin.com/in/hafsa-karaouche/)
 
-
+---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
