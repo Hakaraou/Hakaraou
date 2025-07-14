@@ -64,4 +64,4 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+_“Always remember your purpose and let it guide your journey to success.”_
