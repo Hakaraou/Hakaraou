@@ -65,7 +65,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Hafsa%20Karaouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafsa-karaouche/)](https://www.linkedin.com/in/hafsa-karaouche/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafsa-karaouche/)](https://www.linkedin.com/in/hafsa-karaouche/)
 <a href="mailto:karahafsa87@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-karahafsa87@gmail.com-blue?style=flat-square&logo=gmail"></a>
 ---
 
