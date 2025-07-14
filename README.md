@@ -10,9 +10,10 @@
 
 ### 👩🏻‍💻 About Me
 
-Aspiring Software Developer with strong skills in C/C++, low-level programming, and systems development. Passionate about understanding how things work under the hood — from operating systems to network protocols.
-I enjoy solving complex problems, writing efficient and clean code, and building projects from scratch. Currently expanding my expertise in DevOps, containerization, and scalable infrastructure.
-Always eager to learn new technologies and contribute to open-source projects.
+🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development
+🧠 Passionate about diving deep to understand how things work under the hood — from operating systems to network protocols
+🔧 Enjoy solving complex problems, writing efficient & clean code, and building projects from scratch
+🌱 Always excited to learn new technologies and contribute to open-source communities
 
 ---
 
