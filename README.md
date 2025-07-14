@@ -4,6 +4,7 @@
 
 ## 🛠️ Technologies & Tools
 - 💻 Languages:
+  </br>
   ![C](https://img.shields.io/badge/-333333?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-++-333333?style=flat&logo=c)
 - ⚙️ Tools: Docker, Git
