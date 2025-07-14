@@ -40,6 +40,12 @@
 - System design, network programming, and scalable architecture.
 - CI/CD and container orchestration with Docker.
 
+</br>
+
+<a href="https://wakatime.com/@fdcab04d-2093-4856-9148-73db9fe9c35e"><img src="https://wakatime.com/badge/user/fdcab04d-2093-4856-9148-73db9fe9c35e.svg" alt="Total time coded since Jul 14 2025" /></a>
+
+</br>
+
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-Hafsa%20Karaouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafsa-karaouche/)](https://www.linkedin.com/in/hafsa-karaouche/)
