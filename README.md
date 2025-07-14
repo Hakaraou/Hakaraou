@@ -10,10 +10,10 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development
-- 🧠 Passionate about diving deep to understand how things work under the hood — from operating systems to network protocols
-- 🔧 Enjoy solving complex problems, writing efficient & clean code, and building projects from scratch
-- 🌱 Always excited to learn new technologies and contribute to open-source communities
+- 🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development.
+- 🧠 Passionate about diving deep to understand how things work under the hood — from operating systems to network protocols.
+- 🔧 Enjoy solving complex problems, writing efficient & clean code, and building projects from scratch.
+- 🌱 Always excited to learn new technologies and contribute to open-source communities.
 
 ---
 
@@ -25,6 +25,9 @@
 - 🐚 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 - 🖥️ ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 - 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 🐬 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- 🚦 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)  
+- 📦 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
 ---
 
@@ -43,7 +46,9 @@
   **webserv** – A fully functional HTTP server built in C++98, implementing CGI handling, multipart file uploads, and non-blocking I/O.
 
 - ✅ **Completed:**  
-  **inception** – A Docker-based infrastructure project that sets up WordPress, NGINX, and MariaDB with secure TLS-only access and container isolation.
+  **inception** – A Docker-based infrastructure project that sets up WordPress, NGINX, and MariaDB with secure TLS-only access and container isolation.  
+  **minishell** – A custom Unix shell with support for built-in commands, piping, and redirections.  
+  **cub3d** – A raycasting game engine project inspired by classic Wolfenstein 3D, built in C.
 
 ---
 
