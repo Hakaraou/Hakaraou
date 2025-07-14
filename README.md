@@ -33,14 +33,10 @@
 
 ### 📊 GitHub Stats
 
-<div style="width: 90%; margin-left: 10; margin-right: auto;">
-
-  <a href="https://github.com/Hakaraou">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
-  </a>
-
-</div>
+<a href="https://github.com/Hakaraou">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" style="margin-right: 20px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
+</a>
 
 ---
 
