@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 2000px;">
   <a href="https://github.com/Hakaraou">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
   </a>
