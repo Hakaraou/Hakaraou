@@ -10,10 +10,10 @@
 
 ### 👩🏻‍💻 About Me
 
-🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development
-🧠 Passionate about diving deep to understand how things work under the hood — from operating systems to network protocols
-🔧 Enjoy solving complex problems, writing efficient & clean code, and building projects from scratch
-🌱 Always excited to learn new technologies and contribute to open-source communities
+- 🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development
+- 🧠 Passionate about diving deep to understand how things work under the hood — from operating systems to network protocols
+- 🔧 Enjoy solving complex problems, writing efficient & clean code, and building projects from scratch
+- 🌱 Always excited to learn new technologies and contribute to open-source communities
 
 ---
 
