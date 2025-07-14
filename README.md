@@ -10,7 +10,9 @@
 
 ### 👩🏻‍💻 About Me
 
-I'm always excited about tackling new challenges, especially in systems programming, infrastructure, and building clean and efficient developer tooling. I love working with low-level technologies and automating infrastructure using Docker and shell tools.
+Aspiring Software Developer with strong skills in C/C++, low-level programming, and systems development. Passionate about understanding how things work under the hood — from operating systems to network protocols.
+I enjoy solving complex problems, writing efficient and clean code, and building projects from scratch. Currently expanding my expertise in DevOps, containerization, and scalable infrastructure.
+Always eager to learn new technologies and contribute to open-source projects.
 
 ---
 
