@@ -1,4 +1,4 @@
-#### Hi, I'm Hafsa Karaouche 👋
+### Hi, I'm Hafsa Karaouche 👋
 
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
 
