@@ -1,4 +1,4 @@
-### Hi, I'm Hafsa Karaouche 👋
+## Hi, I'm Hafsa Karaouche 👋
 
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
 
@@ -14,7 +14,7 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -24,7 +24,7 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <a href="https://github.com/Hakaraou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
@@ -33,7 +33,7 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 - 🛠️ **Currently working on:**  
   **webserv** – A fully functional HTTP server built in C++98, implementing CGI handling, multipart file uploads, and non-blocking I/O.
@@ -43,14 +43,14 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 - System design, network programming, and scalable architecture.
 - CI/CD and container orchestration with Docker.
 
 ---
 
-## ⏱️ Coding Activity
+### ⏱️ Coding Activity
 
 <a href="https://wakatime.com/@fdcab04d-2093-4856-9148-73db9fe9c35e">
   <img src="https://wakatime.com/badge/user/fdcab04d-2093-4856-9148-73db9fe9c35e.svg" alt="Total time coded since Jul 14 2025" />
@@ -58,7 +58,7 @@ I'm always excited about tackling new challenges, especially in systems programm
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Hafsa%20Karaouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafsa-karaouche/)](https://www.linkedin.com/in/hafsa-karaouche/)
 
