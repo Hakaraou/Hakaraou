@@ -6,8 +6,6 @@
   <img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hakaraou" alt="hakaraou's 42 stats" />
 </a>
 
----
-
 ### 👩🏻‍💻 About Me
 
 - 🚀 Aspiring Software Developer skilled in C/C++, low-level programming, and systems development.
