@@ -2,6 +2,15 @@
 
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
 
+<br/>
+
+<a href="https://github.com/Hakaraou">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
+</a>
+
+<br/>
+
 ## 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
