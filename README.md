@@ -18,17 +18,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-<div align="center">
 
-  <div style="display: inline-block; width: 45%; text-align: left;">
-    - a
-  </div>
-
-  <div style="display: inline-block; width: 45%; text-align: right;">
-    - b
-  </div>
-
-</div>
 - 💻 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 - 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - 🐳 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
