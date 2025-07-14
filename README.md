@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-<div style="width: 100%; margin-left: 15%; margin-right: 15%;">
+<div style="width: 100%; margin-left: 100%; margin-right: 15%;">
 
   <a href="https://github.com/Hakaraou">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
