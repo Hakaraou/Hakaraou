@@ -2,14 +2,10 @@
 
 🎓 I'm a student at [42](https://42.fr/) and an aspiring **Software Developer** with a growing passion for **DevOps**.
 
-<br/>
+<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hakaraou" alt="hakaraou's 42 stats" /></a>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
-<a href="https://github.com/Hakaraou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
-</a>
 
-<br/>
 
 ## 🛠️ Technologies & Tools
 
@@ -19,6 +15,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+<br/>
+
+<a href="https://github.com/Hakaraou">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hakaraou&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
+</a>
+
+<br/>
 
 ## 🚀 Projects
 
