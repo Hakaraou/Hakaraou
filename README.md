@@ -38,18 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakaraou&theme=merko&layout=compact" />
 </a>
 
-
-### 🚀 Projects
-
-- 🛠️ **Currently working on:**  
-  **webserv** – A fully functional HTTP server built in C++98, implementing CGI handling, multipart file uploads, and non-blocking I/O.
-
-- ✅ **Completed:**  
-  **inception** – A Docker-based infrastructure project that sets up WordPress, NGINX, and MariaDB with secure TLS-only access and container isolation.  
-  **minishell** – A custom Unix shell with support for built-in commands, piping, and redirections.  
-  **cub3d** – A raycasting game engine project inspired by classic Wolfenstein 3D, built in C.
-
-
 ### ⏱️ Coding Activity
 
 <img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark">
