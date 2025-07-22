@@ -52,10 +52,10 @@
 
 ### ⏱️ Coding Activity
 
-<a href="https://wakatime.com/@fdcab04d-2093-4856-9148-73db9fe9c35e">
-  <img src="https://wakatime.com/badge/user/fdcab04d-2093-4856-9148-73db9fe9c35e.svg" alt="Total time coded since Jul 14 2025" />
+<img width="97%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=banditklm&layout=compact&theme=dark">
+<br>
+<a width="100%" href="https://wakatime.com/@fdcab04d-2093-4856-9148-73db9fe9c35e"><img src="https://wakatime.com/badge/user/fdcab04d-2093-4856-9148-73db9fe9c35e.svg" alt="Total time coded since Jul 14 2025" />
 </a>
-
 
 ### 📫 Let's Connect
 
